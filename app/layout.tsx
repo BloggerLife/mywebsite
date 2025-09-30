@@ -6,16 +6,16 @@ import { Analytics } from "@vercel/analytics/react";
 const font = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Motion Touch | Design & Development Studio",
+  title: "MacZain | Digital designer",
   description:
-    "Grow your business with Motion Touch, a design & development studio.",
+    "Your Digital Designer. Graphic, Websites, Apps and Social Media Management",
   openGraph: {
     images: [
       {
-        url: "https://www.google.com/maps/uv?viewerState=lb&pb=!1s0x11ae81c94242f451:0x2a6b0cac40414137!5sGlobstand+technologies&imagekey=!1e10!2sAF1QipPrTTNGxsOszQTXFD3b68e40o0V_LiVsTWwh-H6&cr=rp_35",
+        url: "https://firebasestorage.googleapis.com/v0/b/wesayblog-78349.appspot.com/o/maczain.svg?alt=media&token=0acf7cb3-6901-4287-a04a-31a23cd61719",
         width: 1200,
         height: 630,
-        alt: "Motion Touch Logo",
+        alt: "MacZain Logo",
       },
     ],
   },
