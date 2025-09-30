@@ -75,8 +75,8 @@ export default function Home() {
           <Image
             src={"/logo/logo.svg"}
             alt="Logo"
-            width={10000}
-            height={10000}
+            width={1000}
+            height={1000}
             className="w-28"
           />
         </Link>
@@ -148,7 +148,7 @@ export default function Home() {
             className="md:text-center
            text-xl md:text-2xl my-6 md:my-10 md:w-4/5 mx-auto text-gray-500"
           >
-            Schedule a call with us to discuss your project and get a quote in
+            Schedule a call with to discuss your project and get a quote in
             minutes
           </p>
 
@@ -263,7 +263,7 @@ export default function Home() {
             <WordPullUpDemo />
           </h1>
           <p className="md:text-center py-4 md:w-1/2 mx-auto text-xl md:text-2xl text-gray-500">
-            All of our services are designed to help your business stand out
+            All of the services are designed to help your business stand out
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mt-10">
@@ -294,7 +294,7 @@ export default function Home() {
       <Element name="process">
         <main className="md:px-0 mx-6 md:mx-auto">
           <h1 className="text-3xl md:text-5xl md:text-center font-medium flex items-center gap-x-2 mx-auto justify-center">
-            Our{" "}
+            {" "}
             <span className="text-blue-500 flex gap-x-1 items-center">
               {" "}
               <Image
@@ -321,7 +321,7 @@ export default function Home() {
           py-4 md:w-1/2 mx-auto 
           text-xl md:text-2xl text-gray-500"
           >
-            All of our services are designed to help your business to get
+            All of the services are designed to help your business to get
             noticed.
           </p>
 
@@ -347,7 +347,7 @@ export default function Home() {
           />
           <div className="flex flex-col gap-y-5 md:w-1/2">
             <h1 className="text-lg md:text-2xl ">
-              &quot;We&apos;ve been working with Motion Touch for over 2 years
+              &quot;We&apos;ve been working with <i>MACZAIN</i> for over 2 years
               and they&apos;ve been amazing to work with. They&apos;ve helped us
               grow our business and we couldn&apos;t be happier with the
               results. &quot;
@@ -394,7 +394,7 @@ export default function Home() {
         </div>
 
         <div className="flex md:justify-center gap-x-4 mt-10">
-          © 2025 Motion Touch. All Rights Reserved.
+          © 2025 MacZain. All Rights Reserved.
           <Link href="/" className="text-blue-500">
             Privacy Policy
           </Link>

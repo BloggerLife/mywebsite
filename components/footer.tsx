@@ -21,7 +21,7 @@ const Footer = () => {
       </div>
 
       <div className="flex md:justify-center gap-x-4 mt-10">
-        © 2025 Motion Touch. All Rights Reserved.
+        © 2025 MacZain. All Rights Reserved.
         <Link href="/" className="text-blue-500">
           Privacy Policy
         </Link>

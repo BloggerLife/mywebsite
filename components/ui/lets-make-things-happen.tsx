@@ -5,16 +5,16 @@ import Link from "next/link";
 
 function LetsMakeThingsHappenSection() {
   return (
-    <section className="
+    <section
+      className="
      my-10 md:py-20  md:mx-auto
-    bg-accent rounded-[45px] p-[50px] md:p-[60px] relative">
+    bg-accent rounded-[45px] p-[50px] md:p-[60px] relative"
+    >
       <div className="md:pr-[22rem]">
-        <p className="text-3xl font-medium">
-          Let&apos;s make things happen
-        </p>
+        <p className="text-3xl font-medium">Let&apos;s make things happen</p>
 
         <p className="my-10 text-xl">
-          Contact us today to learn more about how our digital marketing
+          Get in touch today to learn more about how these digital marketing
           services can help your business grow and succeed online.
         </p>
 
