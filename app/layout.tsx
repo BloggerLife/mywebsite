@@ -8,7 +8,7 @@ const font = Space_Grotesk({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "MacZain | Digital designer",
   description:
-    "Your Digital Designer. Graphic, Websites, Apps and Social Media Management",
+    "Your Digital Designer. Graphics, Websites, Apps and Social Media Management",
   openGraph: {
     images: [
       {
